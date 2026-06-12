@@ -6,6 +6,6 @@ import ToDoList from './ToDoList.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <ToDoList/>
-  </StrictMode>
+    <ToDoList />
+  </StrictMode>,
 )
